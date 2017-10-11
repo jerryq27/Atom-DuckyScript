@@ -1,0 +1,25 @@
+{
+  "name": "atom-duckyscript",
+  "main": "./lib/atom-duckyscript",
+  "version": "0.1.0",
+  "description": "Syntax definition for Hak5's DuckyScript language.",
+  "keywords": [
+      "duckyscript",
+      "ducky",
+      "script",
+      "syntax",
+      "definition",
+      "grammar",
+      "hak5"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-duckyscript:toggle"
+  },
+  "repository": "https://github.com/atom/atom-duckyscript",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,11 @@
+REM Basic Hello World script.
+DELAY 500
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+STRING Hello, World!!
+ENTER
+REM End of Hello World script.

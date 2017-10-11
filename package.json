@@ -1,7 +1,7 @@
 {
   "name": "atom-duckyscript",
   "main": "./lib/atom-duckyscript",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Syntax definition for Hak5's DuckyScript language.",
   "keywords": [
       "duckyscript",

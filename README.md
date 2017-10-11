@@ -2,4 +2,4 @@
 
 Syntax definition for Hak5's DuckyScript language.
 
-!(demo.gif)
+![A screenshot of your package](demo.gif)

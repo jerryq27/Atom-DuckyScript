@@ -1,31 +1,30 @@
 {
   "name": "atom-duckyscript",
   "main": "./lib/atom-duckyscript",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax definition for Hak5's DuckyScript language.",
   "keywords": [
-      "duckyscript",
-      "ducky",
-      "script",
-      "syntax",
-      "definition",
-      "grammar",
-      "hak5"
+    "duckyscript",
+    "ducky",
+    "script",
+    "syntax",
+    "definition",
+    "grammar",
+    "hak5"
   ],
   "activationCommands": {
     "atom-workspace": "atom-duckyscript:toggle"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/quinteroheg2/Atom-DuckyScript"
+    "type": "git",
+    "url": "https://github.com/quinteroheg2/Atom-DuckyScript"
   },
   "bugs": {
-      "url": "https://github.com/quinteroheg2/Atom-DuckyScript/issues"
+    "url": "https://github.com/quinteroheg2/Atom-DuckyScript/issues"
   },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

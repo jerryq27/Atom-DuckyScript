@@ -15,7 +15,13 @@
   "activationCommands": {
     "atom-workspace": "atom-duckyscript:toggle"
   },
-  "repository": "https://github.com/atom/atom-duckyscript",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/quinteroheg2/Atom-DuckyScript"
+  },
+  "bugs": {
+      "url": "https://github.com/quinteroheg2/Atom-DuckyScript/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
